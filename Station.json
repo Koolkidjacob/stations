@@ -59,6 +59,11 @@
             "url": "https://play.sas-media.ru/play_256",
             "title": "Noise FM",
             "name": "Noise FM"
+        },
+        {
+            "url": "http://playerservices.streamtheworld.com/pls/WKLBFM.pls",
+            "title": "Country 102.5",
+            "name": "Country 102.5"
         }
     ]
 }
